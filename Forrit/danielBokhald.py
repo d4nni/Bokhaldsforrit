@@ -1,4 +1,4 @@
-#Daníel Þór Bókhald 2020-present
+#Daníel Þór - Bókhaldsforrit- 2020-present
 
 import math
 
